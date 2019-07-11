@@ -4,3 +4,4 @@ str(random.randint(1,255))+'.'+str(random.randint(1,255))+'.'+str(random.randint
 
 str(random.randint(1,255))+'.'+str(random.randint(1,255))+'.'+str(random.randint(1,255))+'.'+str(random.randint(1,255))
 
+print('github commit')
